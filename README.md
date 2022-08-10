@@ -1,3 +1,5 @@
+# About
+This is our first collaborative project at Masai School. SHOP.COM is a new kind of shopping comparison site that offers the most comprehensive shopping experience on the web.
 
 # Our Agendas -
 Breaking the whole website into the smallest divisions according to our strong zone.
